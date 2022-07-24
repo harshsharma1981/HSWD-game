@@ -227,7 +227,7 @@ background-color:  azure;
   color:rgb(84 137 142);
 }
 .gamebody{
-  height: 556px;
+  height: 654px;
 }
 .snakegamecontainer{
   border:1px solid rgb(255, 255, 255);
@@ -282,7 +282,7 @@ font-size: 8.7px;
   font-size:35px;
 }
 .snakegamecontainer{
-  height: 185px;
+  height: 220px;
 }
 .snakegame {
   height: 134px;
